@@ -10,7 +10,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
+  <img width="70px" src="https://i.imgur.com/FEabgH9.png" alt="JetBrains C Lion">
+  <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
 </div>
 
 ##
