@@ -13,6 +13,7 @@
   <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
   <img width="70px" src="https://i.imgur.com/FEabgH9.png" alt="JetBrains C Lion">
   <img width="70px" src="https://i.imgur.com/2tkmLF2.png" alt="C Programming Language">
+  <img width="70px" src="https://i.imgur.com/GyCZtbT.png" alt="Linux>
 </div>
 
 ##
