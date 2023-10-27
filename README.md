@@ -1,10 +1,4 @@
-### Helloo 👋
-
-- 🔭 I’m currently studying at 42 Porto
-- 🌱 I’m currently learning C
-
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimeireles&theme=dark&show_icons=true&include_all_commits=trye&count_private=true"/>
 
 ---
