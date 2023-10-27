@@ -16,8 +16,7 @@
   <img width="70px" src="https://i.imgur.com/GyCZtbT.png" alt="Linux>
 </div>
 
-##
-##
+___
 
 <div>
 <a href = "mailto:davimeirelespn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
