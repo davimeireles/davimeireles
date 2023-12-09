@@ -1,4 +1,12 @@
 <div align="center">
+
+<h1 align="center">Hi 👋, I'm Davi Meireles Pinheiro Nunes</h1>
+<h3 align="center">A enthusiastic student from 42-Porto trying to learn more about programming.</h3>
+
+🔭 I’m currently studying at [42-Porto](https://www.42porto.com/)
+
+🌱 I’m currently learning **C Language**
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimeireles&theme=dark&show_icons=true&include_all_commits=trye&count_private=true"/>
 
 ---
