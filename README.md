@@ -1,11 +1,11 @@
-<div align="center">
+<div align="left">
 
-<h1 align="center">Hi 👋, I'm Davi Meireles Pinheiro Nunes</h1>
-<h3 align="center">A enthusiastic student from 42-Porto trying to learn more about programming.</h3>
+<h1 align="left">Hi 👋, I'm Davi Nunes</h1>
+<h3 align="left">A enthusiastic student from 42-Porto trying to learn more about programming.</h3>
 
 🔭 I’m currently studying at [42-Porto](https://www.42porto.com/)
 
-🌱 I’m currently learning **C Language**
+🌱 I’m currently learning **C/C++ Language**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davimeireles&theme=dark&show_icons=true&include_all_commits=trye&count_private=true"/>
 
@@ -19,3 +19,17 @@
 <a href="https://www.linkedin.com/in/davi-nunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 </div>
+
+<table>
+<tr>
+<th align="left"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
+</tr>
+
+<tr>
+<td>
+
+[Libft](https://github.com/davimeireles/42-Libft) | [Printf](https://github.com/davimeireles/42-Printf) | [Get_Next_Line](https://github.com/davimeireles/42-Get_Next_Line) | [MiniTalk](https://github.com/davimeireles/42-Minitalk) | [So_Long](https://github.com/davimeireles/42-So_Long) | [Push_Swap](https://github.com/davimeireles/42-Push_Swap) | [Philosophers](https://github.com/davimeireles/42-Philosophers) | [Minishell](https://github.com/ThalesXS/42_minishell) | [Cub3D](https://github.com/davimeireles/42-cub3D) | [C++ Modules](https://github.com/davimeireles/CPP) | [IRC]() | [Inception]() | [Transcendence]()
+
+</td>
+</tr>
+</table>
