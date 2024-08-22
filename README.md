@@ -57,7 +57,7 @@
 
 <table>
   <tr>
-    <th align="center"> &nbsp; Common Core Projects - From Libft To Transcendence.</th>
+    <th align="center"> &nbsp; Common Core Projects</th>
   </tr>
 <tr>
 <td>
