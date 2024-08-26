@@ -74,10 +74,10 @@
   <tbody>
     <tr>
       <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/libft"><b>libft<b><a />
+        <a href="https://github.com/davimeireles/42-Libft"><b>LIBFT<b><a />
       </td>
       <td align="center" dir="auto">
-        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/libft">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davimeireles/42-Libft">
       </td>
       <td align="center" dir="auto">
         <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
@@ -89,24 +89,10 @@
     </tr>
     <tr>
       <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/ft_printf"><b>ft_printf<b><a />
+        <a href="https://github.com/davimeireles/42-Printf"><b>42-Printf<b><a />
       </td>
       <td align="center" dir="auto">
-        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/ft_printf">
-      </td>
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
-      </td>
-      <td align="center" dir="auto">
-        <img alt="Static Badge" src="https://img.shields.io/badge/100%2F125-%231f5748">
-      </td>
-    </tr>
-    <tr>
-      <td align="center" dir="auto">
-        <a href="https://github.com/Kelho0812/get_next_line"><b>get_next_line<b><a />
-      </td>
-      <td align="center" dir="auto">
-        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kelho0812/libft">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davimeireles/42-Printf">
       </td>
       <td align="center" dir="auto">
         <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
@@ -117,7 +103,21 @@
     </tr>
     <tr>
       <td align="center" dir="auto">
-        <a href=""><b>born_2_be_root<b><a />
+        <a href="https://github.com/davimeireles/42-Get_Next_Line"><b>42-Get_Next_Line<b><a />
+      </td>
+      <td align="center" dir="auto">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davimeireles/42-Get_Next_Line">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/125%2F125%20%20-%F0%9F%8F%86-%231f5748?labelColor=%231f5748">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" dir="auto">
+        <a href=""><b>B2B<b><a />
       </td>
       <td align="center" dir="auto">
         <i>N/A<i>
@@ -133,7 +133,7 @@
   </tbody>
 </table>
 
-[Libft](https://github.com/davimeireles/42-Libft) | [Printf](https://github.com/davimeireles/42-Printf) | [Get_Next_Line](https://github.com/davimeireles/42-Get_Next_Line) | [MiniTalk](https://github.com/davimeireles/42-Minitalk) | [So_Long](https://github.com/davimeireles/42-So_Long) | [Push_Swap](https://github.com/davimeireles/42-Push_Swap) | [Philosophers](https://github.com/davimeireles/42-Philosophers) | [Minishell](https://github.com/ThalesXS/42_minishell) | [Cub3D](https://github.com/davimeireles/42-cub3D) | [C++ Modules](https://github.com/davimeireles/CPP) | [IRC]() | [Inception]() | [Transcendence]()
+[Libft]() | [Printf](https://github.com/davimeireles/42-Printf) | [Get_Next_Line](https://github.com/davimeireles/42-Get_Next_Line) | [MiniTalk](https://github.com/davimeireles/42-Minitalk) | [So_Long](https://github.com/davimeireles/42-So_Long) | [Push_Swap](https://github.com/davimeireles/42-Push_Swap) | [Philosophers](https://github.com/davimeireles/42-Philosophers) | [Minishell](https://github.com/ThalesXS/42_minishell) | [Cub3D](https://github.com/davimeireles/42-cub3D) | [C++ Modules](https://github.com/davimeireles/CPP) | [IRC]() | [Inception]() | [Transcendence]()
 
 </td>
 </tr>
