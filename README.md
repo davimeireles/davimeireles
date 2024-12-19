@@ -235,5 +235,20 @@
           src="https://img.shields.io/badge/100%2F125-%231f5748">
       </td>
     </tr>
+    <tr>
+      <td align="center" dir="auto">
+        <a href="https://github.com/davimeireles/ft_irc"><b>42-irc<b><a />
+      </td>
+      <td align="center" dir="auto">
+        <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davimeireles/ft_irc">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Done-%231f5748">
+      </td>
+      <td align="center" dir="auto">
+        <img alt="Static Badge"
+          src="https://img.shields.io/badge/100%2F125-%231f5748">
+      </td>
+    </tr>
   </tbody>
 </table>
