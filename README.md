@@ -17,7 +17,6 @@ Here, you'll find my experiments, projects, and ideas! Feel free to explore, sta
     <td>
       <img width="70px" src="https://i.imgur.com/yY111FZ.png" alt="Visual Studio Code">
       <img width="70px" src="https://i.imgur.com/FEabgH9.png" alt="JetBrains C Lion">
-      <img width="70px" src="https://i.imgur.com/UOB6MW0.png" alt="MySQL">
       <img width="70px" src="https://i.imgur.com/t2ttPzu.png" alt="GitHub">
       <img width="70px" src="https://i.imgur.com/ty9azno.png" alt="Oracle PLSQL">
       <img width="70px" src="https://i.imgur.com/KvEq2hG.png" alt="MongoDB">
